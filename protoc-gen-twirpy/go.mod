@@ -1,4 +1,4 @@
-module github.com/verloop/twirpy/protoc-gen-twirpy
+module github.com/tbarbugli/twirpy/protoc-gen-twirpy
 
 go 1.13
 
